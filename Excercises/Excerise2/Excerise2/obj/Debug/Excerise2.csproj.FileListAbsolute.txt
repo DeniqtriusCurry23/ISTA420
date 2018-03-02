@@ -1,0 +1,7 @@
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\obj\Debug\Excerise2.csproj.CoreCompileInputs.cache
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\obj\Debug\Excerise2.csprojResolveAssemblyReference.cache
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\bin\Debug\Excerise2.exe.config
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\bin\Debug\Excerise2.exe
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\bin\Debug\Excerise2.pdb
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\obj\Debug\Excerise2.exe
+C:\Users\Deniqtrius\Desktop\ISTA220\excercises\Excerise2\Excerise2\obj\Debug\Excerise2.pdb
