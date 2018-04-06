@@ -1,0 +1,14 @@
+# Discussion Questions Ch7 TSQL
+## Deniqtrius Curry
+### March 21, 2018
+
+1.   A window function is a function that calculates a sub set of rows and retains the details.
+1. When you partition your data you pick out some sort of grouping and you restict the other windows of the table.
+1. It defines the ordering and supports the specific query. 
+1. It sets upper and lower bounds between the set .
+1. Its a function that priorities between the columnes ethier greatest to lowest or lowest to greatest.
+1. 
+1. Lead and lag define the ofset when your looking at data that defines your window.
+1. First and last value defines the function that returns first 
+1. A function that returns only one value.
+1. A pivot table mashes up your data in to certain catagories.
